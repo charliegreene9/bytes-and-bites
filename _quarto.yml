@@ -12,6 +12,18 @@ website:
         text: About
       - href: events.qmd
         text: Events
+      - text: Learn  
+        menu:
+        - text: Info
+          href: learning_files/info.qmd
+        - text: Resources
+          href: learning_files/resources.qmd
+        - text: Tools
+          href: learning_files/tools.qmd
+      - href: eat.qmd
+        text: Eat
+      - href: news.qmd
+        text: News
     tools:
       - icon: github
         href: https://github.com/ubvu/bytes-and-bites/tree/main
