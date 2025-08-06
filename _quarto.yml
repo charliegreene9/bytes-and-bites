@@ -4,7 +4,9 @@ project:
 website:
   site-url: "https://ubvu.github.io/bytes-and-bites/"
   title: "Bytes & Bites"
+  favicon: "/images/favicon.ico"
   navbar:
+    logo: "/images/favicon.ico"
     left:
       - href: index.qmd
         text: Home
