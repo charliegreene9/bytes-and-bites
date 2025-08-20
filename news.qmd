@@ -11,6 +11,8 @@ listing:
   filter-ui: true
 ---
 
+![_Credit investorinthefamily.com_](images/Newspaper.jpg){width=300}
+
 ## News
 
 This is an area where short blog posts are made to update the community on what is happening within the VU, the Dutch research support world, and the field of software development in general. 

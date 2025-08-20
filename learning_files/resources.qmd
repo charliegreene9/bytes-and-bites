@@ -24,6 +24,7 @@ ___________________
 [W3Schools](https://www.w3schools.com/) – All – A site with free courses for all sorts of programming languages that also has embedded coding playgrounds, tests, questions, and cheatsheets. 
 [OSSU Compsci course](https://github.com/ossu/computer-science) - Mixed - A (mostly) free comprehensive computer science course from mixed resources with a community for discussion, questions, and trouble shooting.
 [RSQKit](https://everse.software/RSQKit/) – Overview – Provides an overview of best coding practices in science including (but not limited to) management, citation, sharing code, and pipelines.
+[Intro to programming in R](https://github.com/SofiaG1l/R_Course) - A course from the VU Amsterdam's very own Sofia Gil-Clavel
 
 #### Paid coding course sites
 
